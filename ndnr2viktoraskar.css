@@ -1,0 +1,29 @@
+body {
+    background-image: url("pictures/ndnr2red.jpg")
+}
+
+th {
+    color: white;
+    background: rgba(70, 100, 80, 0.5);
+
+}
+
+td {
+    color: grey;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border-bottom: 4px solid grey;
+    border-right: 1px solid grey;
+    padding: 15px;
+}
+
+#abc {
+    background-color: white;
+    color: blue;
+}
+
+div {
+    margin: 0 auto;
+}
