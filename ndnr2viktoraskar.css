@@ -17,13 +17,10 @@ table, th, td {
     border-bottom: 4px solid grey;
     border-right: 1px solid grey;
     padding: 15px;
+    margin: auto;
 }
 
 #abc {
     background-color: white;
     color: blue;
-}
-
-div {
-    margin: 0 auto;
 }
